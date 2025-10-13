@@ -1,1 +1,1 @@
-https://new-chat-vg5c.bolt.host/
+https://age-calculator-ebon-beta.vercel.app/
